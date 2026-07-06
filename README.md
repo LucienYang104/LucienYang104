@@ -7,6 +7,7 @@
   <a href="https://github.com/LucienYang104"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"></a>
   <img src="https://img.shields.io/badge/Location-Taiwan-008751?style=flat-square&logo=map&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20DevOps-blueviolet?style=flat-square" alt="Focus">
+  <img src="https://komarev.com/normal-badge/?username=LucienYang104&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
 
 <div align="center">
@@ -66,4 +67,16 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucienYang104&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" alt="Programming Quote" />
+</div>
+
+---
+
+### 👾 My Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucienYang104/LucienYang104/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
