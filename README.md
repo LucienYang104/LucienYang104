@@ -1,42 +1,69 @@
 <h1 align="center">Hi there, I'm Lucien Yang 👋</h1>
-
-<h3 align="center">AI Research and Developer @ 104 Corp | AI Agent Application</h3>
-
 <p align="center">
-  專注於 AI Agent 研發應用、容器化環境與自動化工作流程。熱衷於探索 Generative Engine Optimization (GEO) 與意圖導向的推薦系統。
+  <strong>AI Researcher & Developer @ 104 Corp | AI Agent Architecture & GEO Explorer</strong>
 </p>
 
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1.2.8-FFFFFF?style=for-the-badge&logo=chainlink&logoColor=black)
-
-**Infrastructure & DevOps:**
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-**OS & Environments:**
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
----
-
-## 🚀 Currently Working On
-
-*   **AI Infrastructure**: 建立基於 Kubernetes 與 Docker 的高安全性、資源隔離 AI 執行環境。
-*   **Prompt Engineering**: 實踐「Tag for Release, Hash for Run」的 Prompt 版本控制與架構。
-
----
-
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/LucienYang104"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"></a>
+  <img src="https://img.shields.io/badge/Location-Taiwan-008751?style=flat-square&logo=map&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20DevOps-blueviolet?style=flat-square" alt="Focus">
+</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=AI+Agent+Applications;Infrastructure+%26+DevOps;GEO+%26+Recommendation+Systems" alt="Typing SVG" />
+</div>
+
+<hr />
+
+### 💫 About Me
+專注於 **AI Agent 研發與應用落地**、**容器化環境設計**與**自動化工作流程**。
+對 **Generative Engine Optimization (GEO)** 與**意圖導向的推薦系統**（Intent-oriented Recommendation Systems）有深刻的探索熱情，致力於建構智慧、高效且安全的 AI 基礎設施。
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages & Frameworks</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=chainlink&logoColor=black" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>⚙️ Infrastructure & DevOps</h4>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💾 Databases & Analytics</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Currently Focusing On
+
+*   **AI Infrastructure**: 建立基於 Kubernetes 與 Docker 的高安全性、資源隔離與沙箱化的 AI 執行環境。
+*   **Prompt Engineering**: 實踐「*Tag for Release, Hash for Run*」的 Prompt 版本控制、動態載入與持續評估。
+*   **GEO & RAG**: 探索生成式引擎最佳化（GEO）技術，增強大語言模型在特定領域的知識檢索與生成品質。
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucienYang104&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
